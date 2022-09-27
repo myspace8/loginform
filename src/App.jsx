@@ -10,6 +10,7 @@ const App = () => {
     password: "",
     confirmPassword: "",
   });
+  
 
   const inputs = [
     {
